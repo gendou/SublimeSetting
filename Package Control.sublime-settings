@@ -9,13 +9,16 @@
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
+		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"IMESupport",
 		"Package Control",
 		"Pretty JSON",
 		"SideBarEnhancements",
 		"SideBarGit",
+		"SublimeLinter",
 		"SyncedSideBar",
+		"Terminal",
 		"Theme - Soda",
 		"Themr"
 	]

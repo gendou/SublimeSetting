@@ -1,10 +1,9 @@
 {
-	"translate_tabs_to_spaces": true,
-    "draw_white_space": "all",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"draw_white_space": "all",
 	"ignored_packages":
 	[
 		"Vintage"
-	]
-
-
+	],
+	"translate_tabs_to_spaces": true
 }
